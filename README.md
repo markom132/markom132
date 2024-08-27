@@ -1,16 +1,33 @@
-### Hi there 👋
+# 👋 Hi there! I'm Marko Markovic
 
-<!--
-**markom132/markom132** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! I'm a Backend Web Developer with a passion for making great things. I enjoy working on projects that involve a lot of problem solving.
 
-Here are some ideas to get you started:
+## 🔧 Technologies & Tools
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Languages:** Java, Apex, JavaScript, SQL, CSS, HTML
+- **Frameworks:** Spring Boot, Spring, React, Ligthing Web Components, Hibernate, Maven
+- **Tools:**  Linux, VMWare, Windows, Docker (basic), NGINX (basic), VirtualBox,  MongoDB, MySQL, Oracle, PostgreSQL,  GitHub, Grafana, Jenkins, Kibana, OAuth 2.0
+- **Other Skills:**  Unit Testing, Selenium,  CRM: Salesforce (APEX, SFDC)
+
+## 🚀 What I'm currently working on
+
+- **DomacaProizvodnja**: That will be a online shop for homemade products
+
+## 📈 GitHub Stats
+
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=markom132&show_icons=true&theme=radical)
+
+## 🌱 What I'm learning
+
+Currently, I'm diving deep into Java, improving my skills and knowledge.
+
+## 📫 How to reach me
+
+- **Email:** markomarkoviccb@gmail.com
+- **LinkedIn:** https://www.linkedin.com/in/marko-markovic-953905245/
+
+## 💬 Let's connect
+
+Feel free to reach out if you want to collaborate on a project, discuss tech, or just say hi! I'm always open to new ideas and opportunities.
+
+Thank you for visiting my GitHub profile!
