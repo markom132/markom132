@@ -12,6 +12,7 @@ Welcome to my GitHub profile! I'm a Backend Web Developer with a passion for mak
 ## 🚀 What I'm currently working on
 
 - **DomacaProizvodnja**: That will be a online shop for homemade products
+- **TruthOrDare**: That will be a truth or dare web app game
 
 ## 📈 GitHub Stats
 
