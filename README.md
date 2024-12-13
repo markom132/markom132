@@ -4,10 +4,10 @@ Welcome to my GitHub profile! I'm a Backend Web Developer with a passion for mak
 
 ## 🔧 Technologies & Tools
 
-- **Languages:** Java, Apex, JavaScript, SQL, CSS, HTML
-- **Frameworks:** Spring Boot, Spring, React, Ligthing Web Components, Hibernate, Maven
-- **Tools:**  Linux, VMWare, Windows, Docker (basic), NGINX (basic), VirtualBox,  MongoDB, MySQL, Oracle, PostgreSQL,  GitHub, Grafana, Jenkins, Kibana, OAuth 2.0
-- **Other Skills:**  Unit Testing, Selenium,  CRM: Salesforce (APEX, SFDC)
+- **Languages:** Java, Apex, JavaScript, TypeScript, SQL, CSS, SCSS, HTML
+- **Frameworks:** Spring Boot, Spring, React, Ligthing Web Components, Hibernate, Spring JPA, Maven
+- **Tools:**  Linux, VMWare, Windows, Docker, Make, NGINX (basic), VirtualBox, MongoDB, MySQL, Oracle, PostgreSQL, GitHub, Grafana, Jenkins, Kibana, OAuth 2.0, GitHub Actions
+- **Other Skills:**  Unit Testing, Selenium, CRM: Salesforce (APEX, SFDC)
 
 ## 🚀 What I'm currently working on
 
